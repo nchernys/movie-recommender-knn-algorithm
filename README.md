@@ -46,7 +46,6 @@ Fields like **genre**, **country**, and **year** are given higher weight to impr
 
 ### Run the Frontend
 
-```bash
 npm install
 npm run dev
 
@@ -59,9 +58,7 @@ npm run dev
 
 Confirm installation:
 
-```bash
 java -version
 mvn -version
 
-```bash
 mvn spring-boot:run
