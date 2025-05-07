@@ -1,0 +1,25 @@
+.nav-bar {
+    width: 100%;
+    height: 9rem;
+    overflow: hidden;
+    padding: 1rem 2rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    box-sizing: border-box;
+    justify-content: space-between;
+}
+
+.nav-bar img {
+    max-width: 18rem;
+}
+
+.nav-bar .buttons {
+    display: flex;
+    gap: 1rem;
+}
+
+.nav-bar a {
+    color: inherit;
+    text-decoration: none;
+}

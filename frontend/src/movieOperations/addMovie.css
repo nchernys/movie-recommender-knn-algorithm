@@ -1,0 +1,34 @@
+.add-movie-page {
+    width: 100%;
+    height: 100%;
+    padding: 1rem 4rem 3rem;
+    box-sizing: border-box;
+}
+
+.add-movie-page h1 {
+    color: var(--light-blue)
+}
+
+.add-movie-page form {
+    width: 100%;
+    max-width: 30rem;
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+}
+
+.add-movie-page form input,
+.add-movie-page form textarea {
+    font-family: "Quicksand", sans-serif;
+    width: 100%;
+    padding: .5rem 1rem;
+    box-sizing: border-box;
+    border-radius: .5rem;
+    border: 1px var(--light-blue) solid;
+    font-size: 1rem;
+}
+
+.add-movie-page form button {
+    margin-top: 1.5rem;
+    background-color: var(--light-blue);
+}

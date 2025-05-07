@@ -1,0 +1,6 @@
+com\my_backend_project\backend\controller\MovieController.class
+com\my_backend_project\backend\BackendApplication.class
+com\my_backend_project\backend\repository\MovieRepository.class
+com\my_backend_project\backend\model\Movie.class
+com\my_backend_project\backend\service\MovieService.class
+com\my_backend_project\backend\recommender\KNNRecommender.class

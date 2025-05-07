@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  --light-blue: rgb(74, 189, 235);
+  --light-pink: rgb(230, 69, 221);
+  --dark-blue: #235177;
+}
+
+
+html, body {
+  margin: 0;
+  padding: 0;
+  min-width: 100%;
+  min-height: 100%;
+  font-size: 16px;
+  color: var(--dark-blue);
+  font-family: "Quicksand", sans-serif;
+}
+

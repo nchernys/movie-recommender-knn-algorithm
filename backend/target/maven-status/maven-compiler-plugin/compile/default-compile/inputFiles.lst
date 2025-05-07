@@ -1,0 +1,11 @@
+C:\Users\chernysn\Documents\GITHUB_COPIES\movie-suggestions\backend\src\main\java\com\my_backend_project\backend\BackendApplication.java
+C:\Users\chernysn\Documents\GITHUB_COPIES\movie-suggestions\backend\src\main\java\com\my_backend_project\backend\config\CorsConfig.java
+C:\Users\chernysn\Documents\GITHUB_COPIES\movie-suggestions\backend\src\main\java\com\my_backend_project\backend\controller\MovieController.java
+C:\Users\chernysn\Documents\GITHUB_COPIES\movie-suggestions\backend\src\main\java\com\my_backend_project\backend\model\Movie.java
+C:\Users\chernysn\Documents\GITHUB_COPIES\movie-suggestions\backend\src\main\java\com\my_backend_project\backend\model\MovieWithSimilarDTO.java
+C:\Users\chernysn\Documents\GITHUB_COPIES\movie-suggestions\backend\src\main\java\com\my_backend_project\backend\recommender\KNNRecommender.java
+C:\Users\chernysn\Documents\GITHUB_COPIES\movie-suggestions\backend\src\main\java\com\my_backend_project\backend\repository\MovieRepository.java
+C:\Users\chernysn\Documents\GITHUB_COPIES\movie-suggestions\backend\src\main\java\com\my_backend_project\backend\service\MovieIndexer.java
+C:\Users\chernysn\Documents\GITHUB_COPIES\movie-suggestions\backend\src\main\java\com\my_backend_project\backend\service\MovieSearcher.java
+C:\Users\chernysn\Documents\GITHUB_COPIES\movie-suggestions\backend\src\main\java\com\my_backend_project\backend\service\MovieSearchService.java
+C:\Users\chernysn\Documents\GITHUB_COPIES\movie-suggestions\backend\src\main\java\com\my_backend_project\backend\service\MovieService.java
