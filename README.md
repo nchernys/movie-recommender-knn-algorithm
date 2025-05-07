@@ -60,5 +60,7 @@ Confirm installation:
 
 - java -version  
 - mvn -version
-  
+
+Run:
+
 - mvn spring-boot:run
