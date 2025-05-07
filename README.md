@@ -46,8 +46,8 @@ Fields like **genre**, **country**, and **year** are given higher weight to impr
 
 ### Run the Frontend
 
-npm install
-npm run dev
+- npm install  
+- npm run dev
 
 ### Run the Backend
 
@@ -58,7 +58,7 @@ npm run dev
 
 Confirm installation:
 
-java -version
-mvn -version
-
-mvn spring-boot:run
+- java -version  
+- mvn -version
+  
+- mvn spring-boot:run
